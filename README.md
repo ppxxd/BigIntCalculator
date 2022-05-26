@@ -2,7 +2,7 @@
 
 ### Info
 
-This is calculator created for BigInt numbers in C++. Works with negative and positive numbers. Feel free to use it.
+This is calculator created for BigInt numbers in C++. Works with negative and positive numbers.
 
 #### Contents
 
@@ -12,7 +12,7 @@ This is calculator created for BigInt numbers in C++. Works with negative and po
 ## Actions
 
 Except operators shown below. There are operators like `i--`, `i++`, `bool ones` and `output/input`.
-Also operators like `*=` are also overloaded.
+Operators like `*=` are also overloaded.
 
 ```c++
 BigNumber first("100000000")      #Example
