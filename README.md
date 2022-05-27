@@ -33,7 +33,7 @@ first / second;                   #Division
 first % second;                   #Modulus
 //Output: 0;
 
-± first                           #Unary minus
+first ±                          #Unary minus
 //Output: -100000000;
   
 AC                                #Clears the number inputed
